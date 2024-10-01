@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SolarPanels")(type "KiCad")(uri "${KIPRJMOD}/../../KiCad-Libraries/SolarPanels.kicad_sym")(options "")(descr ""))
+)
