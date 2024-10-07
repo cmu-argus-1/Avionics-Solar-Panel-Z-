@@ -2842,7 +2842,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_Coaxial"
+		(property "Value" "U.FL"
 			(at 67.6274 132.08 0)
 			(effects
 				(font
@@ -3272,7 +3272,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_Coaxial"
+		(property "Value" "U.FL"
 			(at 51.1174 67.31 0)
 			(effects
 				(font
@@ -4202,7 +4202,7 @@
 				)
 			)
 		)
-		(property "Value" "ATB2012-50011-T000"
+		(property "Value" "DXW21HN5011BL"
 			(at 74.93 67.7164 0)
 			(effects
 				(font
@@ -4916,7 +4916,7 @@
 		)
 	)
 	(sheet
-		(at 163.068 84.074)
+		(at 163.322 83.82)
 		(size 33.782 21.59)
 		(fields_autoplaced yes)
 		(stroke
@@ -4928,7 +4928,7 @@
 		)
 		(uuid "e87a29de-7d32-474a-998c-af2c5508d1e2")
 		(property "Sheetname" "Burn Wires"
-			(at 163.068 83.3624 0)
+			(at 163.322 83.1084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4937,7 +4937,7 @@
 			)
 		)
 		(property "Sheetfile" "BurnWires.kicad_sch"
-			(at 163.068 106.2486 0)
+			(at 163.322 105.9946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
