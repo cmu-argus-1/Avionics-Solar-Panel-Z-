@@ -3152,7 +3152,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 43.18) (xy 222.25 43.18)
+			(xy 203.2 43.18) (xy 222.25 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3472,7 +3472,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 43.18) (xy 193.04 43.18)
+			(xy 177.8 43.18) (xy 198.12 43.18)
 		)
 		(stroke
 			(width 0)
@@ -4374,6 +4374,17 @@
 			(justify left bottom)
 		)
 		(uuid "971d959c-fb14-45e6-88c1-690ba5a03fbf")
+	)
+	(text "Buck Regulator 5V"
+		(exclude_from_sim no)
+		(at 182.372 35.306 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left bottom)
+		)
+		(uuid "989117c4-e981-4d97-860d-47f78eb64a41")
 	)
 	(label "SCLOUT"
 		(at 99.06 97.79 0)
@@ -6892,7 +6903,7 @@
 	)
 	(symbol
 		(lib_id "SolarPanels:D_Small")
-		(at 195.58 43.18 180)
+		(at 200.66 43.18 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6900,7 +6911,7 @@
 		(dnp no)
 		(uuid "8136d795-1de2-4635-8b0d-661151cff3d6")
 		(property "Reference" "D1"
-			(at 195.58 38.1 0)
+			(at 200.66 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6908,7 +6919,7 @@
 			)
 		)
 		(property "Value" "BAS16HT1G"
-			(at 195.58 40.132 0)
+			(at 200.66 40.132 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6916,7 +6927,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-323"
-			(at 195.58 43.18 90)
+			(at 200.66 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6925,7 +6936,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 43.18 90)
+			(at 200.66 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6934,7 +6945,7 @@
 			)
 		)
 		(property "Description" "Diode, small symbol"
-			(at 195.58 43.18 0)
+			(at 200.66 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6943,7 +6954,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 195.58 43.18 0)
+			(at 200.66 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6952,7 +6963,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 195.58 43.18 0)
+			(at 200.66 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
