@@ -2196,7 +2196,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 53.34) (xy 219.71 53.34)
+			(xy 214.63 53.34) (xy 217.17 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2556,9 +2556,9 @@
 			)
 		)
 	)
-	(global_label "VBATT"
+	(global_label "VBATT_SENSE"
 		(shape bidirectional)
-		(at 219.71 53.34 0)
+		(at 217.17 53.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2567,7 +2567,7 @@
 		)
 		(uuid "2716c680-f07b-4b5b-a585-66fc9eb2a651")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.71 53.34 0)
+			(at 217.17 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)

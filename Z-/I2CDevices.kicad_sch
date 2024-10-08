@@ -4763,7 +4763,7 @@
 			)
 		)
 	)
-	(global_label "VBATT"
+	(global_label "VBATT_SENSE"
 		(shape bidirectional)
 		(at 44.45 151.13 180)
 		(effects
